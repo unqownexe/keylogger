@@ -23,3 +23,8 @@ Website: https://www.unqown.codes<br>
 Discord: https://discord.gg/sP4dfEz<br>
 Instagram: https://instagram.com/unqownexe<br>
 YouTube: https://www.youtube.com/channel/UCdu6n5FAIvF_AkXouZB4iKg<br>
+
+
+<br>
+Kodlama dilleri;
+Visual Basic, C#
