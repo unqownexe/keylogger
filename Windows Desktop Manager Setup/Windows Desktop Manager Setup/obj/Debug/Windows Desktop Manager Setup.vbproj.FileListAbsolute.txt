@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\bin\Debug\Windows Desktop Manager Setup.exe
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\bin\Debug\Windows Desktop Manager Setup.pdb
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\bin\Debug\Windows Desktop Manager Setup.xml
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows Desktop Manager Setup.vbprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows_Desktop_Manager_Setup.Form1.resources
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows_Desktop_Manager_Setup.Resources.resources
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows Desktop Manager Setup.vbproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows Desktop Manager Setup.vbproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows Desktop Manager Setup.exe
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows Desktop Manager Setup.xml
+C:\Users\yusuf\source\repos\Windows Desktop Manager Setup\Windows Desktop Manager Setup\obj\Debug\Windows Desktop Manager Setup.pdb
