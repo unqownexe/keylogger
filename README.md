@@ -18,11 +18,11 @@ Toplanan verileri çekme;<br>
 3: Program kapandığında veya "Dosyalar Aktarıldı" yazısını gördükten sonra USB belleğinizi çekiniz.<br>
 
 <br>
-İletişim & Yardım İçin
-- Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)
-- Website: [www.unqown.com](https://www.unqown.com)
-- Discord Sunucusu: [www.unqown.com](https://www.unqown.com)
-- İletişim: [www.unqown.xyz/iletisim](https://www.unqown.com)
+İletişim & Yardım İçin<br>
+- Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)<br>
+- Website: [www.unqown.com](https://www.unqown.com)<br>
+- Discord Sunucusu: [www.unqown.com](https://www.unqown.com)<br>
+- İletişim: [www.unqown.xyz/iletisim](https://www.unqown.com)<br>
 
 
 <br>
